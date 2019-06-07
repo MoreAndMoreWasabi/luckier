@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="181fbe10-3c17-49a9-8152-04c2aa57947e" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/hbig/urls.py" afterDir="false" />
+>>>>>>> jacob
       <change beforePath="$PROJECT_DIR$/big/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/big/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/big/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/big/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hbig/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/hbig/views.py" afterDir="false" />
@@ -28,7 +32,11 @@
         <entry file="file://$PROJECT_DIR$/big/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
+<<<<<<< HEAD
               <caret line="15" selection-start-line="15" selection-end-line="22" selection-end-column="1" />
+=======
+              <caret line="15" selection-start-line="15" selection-end-line="23" />
+>>>>>>> jacob
               <folding>
                 <element signature="e#637#669#0" expanded="true" />
               </folding>
@@ -39,8 +47,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/big/settings.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="513">
               <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+=======
+            <state relative-caret-position="247">
+              <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+>>>>>>> jacob
             </state>
           </provider>
         </entry>
@@ -48,8 +61,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hbig/urls.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="133">
               <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+=======
+            <state relative-caret-position="95">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+>>>>>>> jacob
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -60,8 +78,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hbig/views.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="114">
               <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+=======
+            <state relative-caret-position="95">
+              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+>>>>>>> jacob
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -84,10 +107,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/big/urls.py" />
         <option value="$PROJECT_DIR$/big/settings.py" />
         <option value="$PROJECT_DIR$/hbig/views.py" />
         <option value="$PROJECT_DIR$/hbig/urls.py" />
+=======
+        <option value="$PROJECT_DIR$/big/settings.py" />
+        <option value="$PROJECT_DIR$/big/urls.py" />
+        <option value="$PROJECT_DIR$/hbig/urls.py" />
+        <option value="$PROJECT_DIR$/hbig/views.py" />
+>>>>>>> jacob
       </list>
     </option>
   </component>
@@ -97,7 +127,13 @@
     <option name="width" value="1262" />
     <option name="height" value="1026" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+>>>>>>> jacob
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -183,11 +219,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559909005130</updated>
+<<<<<<< HEAD
       <workItem from="1559909012592" duration="1143000" />
+=======
+      <workItem from="1559909012592" duration="2363000" />
+>>>>>>> jacob
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1143000" />
   </component>
   <component name="ToolWindowManager">
@@ -195,12 +236,26 @@
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986118" />
+=======
+    <option name="totallyTimeSpent" value="2363000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986118" />
+>>>>>>> jacob
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32930845" />
+=======
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32930845" />
+>>>>>>> jacob
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -240,15 +295,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/big/settings.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="513">
           <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+=======
+        <state relative-caret-position="247">
+          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+>>>>>>> jacob
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/big/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
+<<<<<<< HEAD
           <caret line="15" selection-start-line="15" selection-end-line="22" selection-end-column="1" />
+=======
+          <caret line="15" selection-start-line="15" selection-end-line="23" />
+>>>>>>> jacob
           <folding>
             <element signature="e#637#669#0" expanded="true" />
           </folding>
@@ -257,8 +321,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hbig/views.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="114">
           <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+=======
+        <state relative-caret-position="95">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+>>>>>>> jacob
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
@@ -267,8 +336,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hbig/urls.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="133">
           <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+=======
+        <state relative-caret-position="95">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+>>>>>>> jacob
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
