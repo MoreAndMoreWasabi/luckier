@@ -1,2 +1,2 @@
 # luckier
-let is go
+let us go
